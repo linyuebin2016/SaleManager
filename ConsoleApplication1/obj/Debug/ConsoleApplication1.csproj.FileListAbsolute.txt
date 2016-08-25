@@ -1,0 +1,14 @@
+D:\Linyuebin\OneDrive\Projects\SaleManager\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+D:\Linyuebin\OneDrive\Projects\SaleManager\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+D:\Linyuebin\OneDrive\Projects\SaleManager\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+D:\Linyuebin\OneDrive\Projects\SaleManager\ConsoleApplication1\bin\Debug\DataLayer.dll
+D:\Linyuebin\OneDrive\Projects\SaleManager\ConsoleApplication1\bin\Debug\EntityFramework.dll
+D:\Linyuebin\OneDrive\Projects\SaleManager\ConsoleApplication1\bin\Debug\EntityFramework.SqlServer.dll
+D:\Linyuebin\OneDrive\Projects\SaleManager\ConsoleApplication1\bin\Debug\Models.dll
+D:\Linyuebin\OneDrive\Projects\SaleManager\ConsoleApplication1\bin\Debug\DataLayer.pdb
+D:\Linyuebin\OneDrive\Projects\SaleManager\ConsoleApplication1\bin\Debug\Models.pdb
+D:\Linyuebin\OneDrive\Projects\SaleManager\ConsoleApplication1\bin\Debug\EntityFramework.xml
+D:\Linyuebin\OneDrive\Projects\SaleManager\ConsoleApplication1\bin\Debug\EntityFramework.SqlServer.xml
+D:\Linyuebin\OneDrive\Projects\SaleManager\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+D:\Linyuebin\OneDrive\Projects\SaleManager\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+D:\Linyuebin\OneDrive\Projects\SaleManager\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
