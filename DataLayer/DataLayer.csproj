@@ -51,43 +51,8 @@
   <ItemGroup>
     <Compile Include="BaseDL.cs" />
     <Compile Include="CommodityDL.cs" />
+    <Compile Include="CustomerDL.cs" />
     <Compile Include="DBContext.cs" />
-    <Compile Include="Migrations\201608220801595_order.cs" />
-    <Compile Include="Migrations\201608220801595_order.Designer.cs">
-      <DependentUpon>201608220801595_order.cs</DependentUpon>
-    </Compile>
-    <Compile Include="Migrations\201608220803119_order1.cs" />
-    <Compile Include="Migrations\201608220803119_order1.Designer.cs">
-      <DependentUpon>201608220803119_order1.cs</DependentUpon>
-    </Compile>
-    <Compile Include="Migrations\201608220812191_order2.cs" />
-    <Compile Include="Migrations\201608220812191_order2.Designer.cs">
-      <DependentUpon>201608220812191_order2.cs</DependentUpon>
-    </Compile>
-    <Compile Include="Migrations\201608220851085_order3.cs" />
-    <Compile Include="Migrations\201608220851085_order3.Designer.cs">
-      <DependentUpon>201608220851085_order3.cs</DependentUpon>
-    </Compile>
-    <Compile Include="Migrations\201608220900299_order4.cs" />
-    <Compile Include="Migrations\201608220900299_order4.Designer.cs">
-      <DependentUpon>201608220900299_order4.cs</DependentUpon>
-    </Compile>
-    <Compile Include="Migrations\201608220906406_order5.cs" />
-    <Compile Include="Migrations\201608220906406_order5.Designer.cs">
-      <DependentUpon>201608220906406_order5.cs</DependentUpon>
-    </Compile>
-    <Compile Include="Migrations\201608220927029_order6.cs" />
-    <Compile Include="Migrations\201608220927029_order6.Designer.cs">
-      <DependentUpon>201608220927029_order6.cs</DependentUpon>
-    </Compile>
-    <Compile Include="Migrations\201608230812599_order7.cs" />
-    <Compile Include="Migrations\201608230812599_order7.Designer.cs">
-      <DependentUpon>201608230812599_order7.cs</DependentUpon>
-    </Compile>
-    <Compile Include="Migrations\201608230851152_order8.cs" />
-    <Compile Include="Migrations\201608230851152_order8.Designer.cs">
-      <DependentUpon>201608230851152_order8.cs</DependentUpon>
-    </Compile>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="OrderDL.cs" />
@@ -103,35 +68,6 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
-  </ItemGroup>
-  <ItemGroup>
-    <EmbeddedResource Include="Migrations\201608220801595_order.resx">
-      <DependentUpon>201608220801595_order.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="Migrations\201608220803119_order1.resx">
-      <DependentUpon>201608220803119_order1.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="Migrations\201608220812191_order2.resx">
-      <DependentUpon>201608220812191_order2.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="Migrations\201608220851085_order3.resx">
-      <DependentUpon>201608220851085_order3.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="Migrations\201608220900299_order4.resx">
-      <DependentUpon>201608220900299_order4.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="Migrations\201608220906406_order5.resx">
-      <DependentUpon>201608220906406_order5.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="Migrations\201608220927029_order6.resx">
-      <DependentUpon>201608220927029_order6.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="Migrations\201608230812599_order7.resx">
-      <DependentUpon>201608230812599_order7.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="Migrations\201608230851152_order8.resx">
-      <DependentUpon>201608230851152_order8.cs</DependentUpon>
-    </EmbeddedResource>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
